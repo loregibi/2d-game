@@ -6,7 +6,7 @@ To run this game (Apache NetBeans IDE 12.2 recommended):
 
 2 - Extract
 
-3 - Open NetBeans: File > Open Project > 2d_game-main
+3 - Open NetBeans > File > Open Project > 2d_game-main
 
 4 - Press F6 to run!
 #
