@@ -2,4 +2,6 @@
 
 To run this game:
 
-1 - 
+1 - Download ZIP
+2 - Extract
+3 - 
