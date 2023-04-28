@@ -1,12 +1,11 @@
 # 2d_game
+Run this game:
 
-To run this game:
+1 - Open dist
 
-
-
-4 - Press F6 to run!
+2 - Download FiveIngredients.jar
 #
-To look at the code (Apache NetBeans IDE 12.2 recommended):
+Look at the code (Apache NetBeans IDE 12.2 recommended):
 
 1 - Download ZIP
 
