@@ -5,7 +5,7 @@ Run this game:
 
 2 - FiveIngredients.jar > Download
 #
-Look at the code (Apache NetBeans IDE 12.2 recommended):
+Look at the code *(Apache NetBeans IDE 12.2 recommended)*:
 
 1 - Download ZIP
 
