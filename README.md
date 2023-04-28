@@ -3,7 +3,7 @@ Run this game:
 
 1 - Open dist
 
-2 - Download FiveIngredients.jar
+2 - FiveIngredients.jar > Download
 #
 Look at the code (Apache NetBeans IDE 12.2 recommended):
 
